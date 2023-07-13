@@ -1,0 +1,32 @@
+body
+{
+    background:lightgreen;
+}
+h1
+{
+  background: gray;
+  color:burlywood;
+  height: 50px;
+  text-align: center;
+  padding-top: 25px;
+}
+h3
+{
+    background:black;
+    color: rgb(233, 13, 13);
+    height: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+div
+{
+    background:white;
+    height: 50px;
+    width: 500px;
+    margin: auto;
+}
+p
+{
+    text-align: center;
+    padding-top: 20px;
+}
